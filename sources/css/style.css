@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(212, 211, 211);
+    color:rgb(40, 83, 131) ;
+}
+
+.TempBox{
+    width: 70%;
+    margin-left: 15%;
+    padding: 3%;
+}
+
+.cabecalho{
+    background-color: rgb(40, 83, 131);
+}
+
+.box-h1{
+    color: rgb(40, 83, 131);
+    margin-left: 15%;
+    width: 80%;
+    overflow-x: hidden;
+}

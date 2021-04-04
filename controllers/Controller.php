@@ -1,5 +1,5 @@
 <?php
-include "../models/ConnectApi.php";
+include "./models/ConnectApi.php";
 
 function getDadosApi(){
     $p = new ConnectApi();
