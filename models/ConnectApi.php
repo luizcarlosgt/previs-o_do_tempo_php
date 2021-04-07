@@ -10,6 +10,7 @@ class ConnectAPI
         $dados = self::hg_request(array(
             'user_ip' => self::getIP()
           ), $this->chave);
+
           return $dados;
     }
 
@@ -39,9 +40,9 @@ class ConnectAPI
           
           // Obtem os dados da API
           $resposta = file_get_contents(substr($url, 0, -1));
-          
           return json_decode($resposta, true);
         } else {
+
           return false;
         }
       }
