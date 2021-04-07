@@ -6,7 +6,7 @@
 <p>Utiliza uma api para obter os dados.</p>
 
 <h1 align="center">
-  <img alt="PrevisaoDoTempo" title="#NextLevelWeek" src="./assets/banner.png" />
+  <img alt="PrevisaoDoTempo" title="#NextLevelWeek" src="./sources/img/banner.png" />
 </h1>
 
 <h4 align="center"> 
